@@ -22,7 +22,11 @@ LineCap uses special tokens to refer to axis and line labels:
 * `ylabel`: this token is used to refer to the y-axis label. 
 * `Line n`: lines are referred to by their number (1 to 5) instead of their labels.
 
-The lines are numbered following these rules: 
+The green text in the figure below shows how special tokens substitute references to line and axis labels in this dataset.
+
+<img src="/instruction_imgs/special-tokens.jpg?raw=true" alt="Use of special tokens to replace line and axis labels" style="width:600px;"/>
+
+### Line Numbering Rules
 
 1. The lines are numbered from top to bottom based on the order of their label in the figure legend.
 
