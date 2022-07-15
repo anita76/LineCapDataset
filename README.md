@@ -40,7 +40,7 @@ The green text in the figure below shows how special tokens substitute reference
 
 <img src="/instruction_imgs/labels-only.jpg?raw=true" alt="Figure with lines labeled directly in the chart" style="width:600px;"/>
 
-4. If the figure lines are labeled both directly in the chart and in a legend, the legend is used for ordering the lines. For instance, in the figure below, the lines are labeled both in the chart with arrows and in the legend. The line orders in the chart and the legend do not match. In the chart, the `approximated-MDP` line has the second highest label but in the legend, the `Lyapunov` line has the highest label. The lines should be numbered based on the legend in such cases. As such, the `Lyapunov` line is line 2 while the `approximated-MDP` line is line 3.
+4. If the figure lines are labeled both directly in the chart and in a legend, the legend is used for ordering the lines. For instance, in the figure below, the lines are labeled both in the chart with arrows and in the legend. The line orders in the chart and the legend do not match. In the chart, the `approximated-MDP` line has the second highest label but in the legend, the `Lyapunov` line has the second highest label. The lines should be numbered based on the legend in these cases. As such, the `Lyapunov` line is line 2 while the `approximated-MDP` line is line 3.
 
 <img src="/instruction_imgs/repeated-labels.jpg?raw=true" alt="Figure with labels both in the chart and the legend" style="width:600px;"/>
 
