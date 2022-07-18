@@ -1,6 +1,6 @@
 # LineCap Dataset
 
-This repository contains the figures and annotations for LineCap, a dataset of line charts scraped from scientific figures each accompanied with a crowd-sourced caption describing the trends of individual lines in the figure.
+This repository contains the figures and annotations for LineCap, a dataset of line charts scraped from scientific figures each accompanied with a crowd-sourced caption describing the trends of individual lines in the figure. For more information, please refer to our IEEE VIS 2022 paper, [LineCap: Line Charts for Data Visualization Captioning Models](https://arxiv.org/abs/2207.07243).
 
 The collected annotations are saved in `csv` files with the following columns:
 
